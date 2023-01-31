@@ -6,5 +6,10 @@ h1 {
   .info{
     background-color: yellow;
     color: red;
-    padding: 10px;  
+    padding: 10px; 
   }
+
+h3 {background-color: orange;
+    color: blue
+}
+ 
